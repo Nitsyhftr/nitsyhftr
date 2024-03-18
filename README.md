@@ -1,19 +1,3 @@
-### Hi there 👋
-
-<!--
-**Nitsyhftr/nitsyhftr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height=29 align=left>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anita-adelia-86023222a/)
@@ -24,12 +8,9 @@ Here are some ideas to get you started:
 Welcome to my little space on Github. Here i put my thoughts and ideas into code.
 
 - 🔭 Primary Coding language : Python
-- 🌱 Currently learning Automation and Cracking
-- 👯 I’m looking to collaborate with other programmers
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- 📫 How to reach me : The fastest way to reach me is by Telegram
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
-- ⚡ Fun fact : I am a melomaniac, an Otaku and a fan of Ruskin Bond Stories 🤣.
+- ⚡ Fun fact : I am a potterhead, an Astrophile 🤣.
 
 <details>
 	<summary>Interested in knowing more about me 👇 </summary>
