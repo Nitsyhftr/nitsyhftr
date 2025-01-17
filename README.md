@@ -8,7 +8,7 @@
 Welcome to my little space on Github. Here i put my thoughts and ideas into code.
 
 - 🔭 Primary Coding language : Python
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 
 - ⚡ Fun fact : I am a potterhead, an Astrophile 🤣.
 
